@@ -1,6 +1,7 @@
 // Copyright 2015 The Chromium Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+library theme.shadows;
 
 const Map<int, String> Shadow = const {
   1: '0  1px  3px rgba(0,0,0,0.12), 0  1px  2px rgba(0,0,0,0.24)',
