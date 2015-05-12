@@ -6,7 +6,7 @@ library components.scaffold;
 import '../fn.dart';
 import 'drawer.dart';
 import 'floating_action_button.dart';
-import '../typography.dart' as typography;
+import '../theme/typography.dart' as typography;
 
 class Scaffold extends Component {
   static final Style _style = new Style('''
